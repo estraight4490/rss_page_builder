@@ -1,0 +1,12 @@
+{
+  "feeds": {
+    "Subcategory 1": {
+      "News Media Name":  "example.com/rss"
+    },
+    "Subcategory 2": {
+      "Journal Name": "example.com/feed"
+    }
+  },
+  "file_path": "rss.html",
+  "interval": 3600000
+}
